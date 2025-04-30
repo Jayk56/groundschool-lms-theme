@@ -1,0 +1,3 @@
+[submodule "footer"]
+	path = footer
+	url = https://github.com/Jayk56/frontend-component-footer.git
